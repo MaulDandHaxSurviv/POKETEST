@@ -144,7 +144,7 @@ questions = [
         }
     },
     {
-        "question": "From each monkey according to its ability, from each monkey according to its needs.",
+        "question": "From each monkey according to its ability, to each monkey according to its needs.",
         "effect": {
             "econ": 10,
             "dipl": -5,
