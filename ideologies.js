@@ -174,9 +174,9 @@ ideologies = [
         "name": "Christian Democracy",
         "stats": {
             "econ": 60,
-            "dipl": 60,
+            "dipl": 40,
             "govt": 50,
-            "scty": 30
+            "scty": 20
         }
     },
     {
